@@ -8,7 +8,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: azure;
+    background-color: rgb(195, 198, 198);
     height: 100vh;
 }
 
